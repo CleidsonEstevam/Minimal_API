@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G/4bKBCwsL7mLj4pDqu9HAbM83QmGsQbCiSr5mCA853CAbg2x9KefeF74GdcDx62go7/64V2GqqaZDBN/ri15A==",
+  "dgSpecHash": "NveUlCCL8AuxIp0A9iwWS9wEzoITPfphPr5nItxfP9cQoRZhtBUZVgjpMcJRk9nYNxk/gZ/+gLDWdjtqd2GDpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\cleidson.silva\\Desktop\\Minimal\\DemoMinimalAPI\\DemoMinimalAPI\\DemoMinimalAPI.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\cleidson.silva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\cleidson.silva\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\cleidson.silva\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\cleidson.silva\\.nuget\\packages\\minivalidation\\0.5.0-pre.20220315.50\\minivalidation.0.5.0-pre.20220315.50.nupkg.sha512",
     "C:\\Users\\cleidson.silva\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\cleidson.silva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\cleidson.silva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
