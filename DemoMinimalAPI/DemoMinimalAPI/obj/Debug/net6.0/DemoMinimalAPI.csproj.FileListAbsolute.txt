@@ -59,3 +59,4 @@ C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\
 C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.pdb
 C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.genruntimeconfig.cache
 C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\ref\DemoMinimalAPI.dll
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\bin\Debug\net6.0\MiniValidation.dll
